@@ -10,16 +10,16 @@
 * Rohit Singh
 ***
 ### Week-1
-❗Week-1 is all about EDA (Exploratory Data Analysis), Data Storytelling, Data Visualization on
+🌴  Week-1 is all about EDA (Exploratory Data Analysis), Data Storytelling, Data Visualization on
 contemporary dataset(s) and data scraping.
 ***
 ### Week-2 
-❗Week-2 is all about predictive analysis 
+🌴 Week-2 is all about predictive analysis 
 ***
 ### Week-3 
-❗Week-3 is all about making recommender system using movie datasets
+🌴 Week-3 is all about making recommender system using movie datasets
 ***
 ### Week-4 
-❗Week-4 is all about making web page using recommender system model (week-3)
+🌴 Week-4 is all about making web page using recommender system model (week-3)
 ***
 
